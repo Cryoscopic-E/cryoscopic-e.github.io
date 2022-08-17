@@ -1,0 +1,144 @@
+/**********************************************/
+/* CSS for Emanuele De Pellegrin Personal Page
+    made by RedAurum using Bootstrap 5*/
+
+/**********************************************/
+
+/* Table of Content 
+
+    1.0 - All page CSS
+        1.1 - Footer
+        1.2 - Social Links
+    2.0 - Home 
+    3.0 - About 
+    4.0 - Publications
+    5.0 - Projects
+    6.0 - Academics
+
+*/
+
+/**********************************************/
+
+/* 1.0 - All Pages CSS*/
+
+body {
+
+    font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+
+
+    font-family: 'Exo 2', sans-serif;
+
+}
+
+nav .brand-logo {
+
+    margin-left: 10px;
+
+}
+
+.bgr-opacity-title {
+
+    background-color: #f8f9faed;
+}
+
+.responsive-img {
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    width: 100%;
+    height: auto;
+
+}
+
+/* 1.1 - Footer */
+
+footer {
+
+    margin-bottom: 0;
+}
+
+/* 1.2 - Social Links */
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+/**********************************************/
+
+/* 2.0 - Home */
+
+#home-bgr {
+
+    background-image: url("/img/robotslego-banner.jpg");
+
+}
+
+#robot-img {
+
+
+    right: 0px;
+    bottom: 0px;
+
+
+}
+
+/**********************************************/
+
+/* 3.0 - About CSS */
+
+
+.infos p {
+
+    box-sizing: border-box;
+    background-color: #f5f5f586;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 2.1;
+    font-size: 1.25rem;
+}
+
+#about-bgr {
+
+    background-image: url("/img/pinkrobot-banner.jpg");
+
+}
+
+/**********************************************/
+
+/* 4.0 - Publications CSS */
+
+#publications-bgr {
+
+    background-image: url("/img/pepper-banner.jpg");
+
+}
+
+/**********************************************/
+
+/* 5.0 - Projects CSS */
+
+
+#projects-bgr {
+
+    background-image: url("/img/asimo-banner.jpg");
+
+}
+
+/**********************************************/
+
+/* 6.0 - Academic CSS */
+
+#academic-bgr {
+
+    background-image: url("/img/robot-banner.jpg");
+
+}
