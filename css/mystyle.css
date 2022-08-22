@@ -21,8 +21,10 @@
 
 /* 1.0 - All Pages CSS*/
 
-body {
-
+html,body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
     font-family: 'Nunito', sans-serif;
 }
 
@@ -56,10 +58,6 @@ nav .brand-logo {
 
 /* 1.1 - Footer */
 
-footer {
-
-    margin-bottom: 0;
-}
 
 /* 1.2 - Social Links */
 
@@ -79,7 +77,6 @@ footer {
 #home-bgr {
 
     background-image: url("/img/robotslego-banner.jpg");
-
 }
 
 #robot-img {
