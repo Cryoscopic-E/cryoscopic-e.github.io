@@ -20,7 +20,6 @@
 /**********************************************/
 
 /* 1.0 - All Pages CSS*/
-
 html,body {
     height: 100%;
     margin: 0;
@@ -29,7 +28,6 @@ html,body {
 }
 
 h1 {
-
 
     font-family: 'Exo 2', sans-serif;
 
@@ -139,3 +137,4 @@ nav .brand-logo {
     background-image: url("/img/robot-banner.jpg");
 
 }
+
